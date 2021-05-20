@@ -15,8 +15,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Pages\Cars\" />
     <Folder Include="Pages\CarBrands\" />
+    <Folder Include="Pages\Cars\" />
     <Folder Include="Pages\RentalServices\" />
     <Folder Include="Pages\Staff\" />
     <Folder Include="Pages\Positions\" />

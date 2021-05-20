@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CarRental.Models
 {
-    public class CarBrands
+    public class Car_Brands
     {
         public long ID { get; set; }
         public string Description { get; set; }
